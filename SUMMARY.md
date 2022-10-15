@@ -21,7 +21,7 @@
 * [Metadata](technology/metadata.md)
 * [UTxOs](technology/utxos.md)
 * [Epoch](technology/epoch.md)
-* [Transactions](technology/transactions.md)
+* [Transaction](technology/transaction.md)
 * [Signatures](technology/signatures.md)
 * [Multisig](technology/multisig.md)
 * [NFT vs FT](technology/nft-vs-ft.md)
