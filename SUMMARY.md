@@ -37,12 +37,13 @@
 
 ## Game
 
-* [Roles](game/roles.md)
-* [Spaceship Units](game/spaceship-units.md)
+* [Spaceship Units](game/spaceship-units/README.md)
+  * [Roles](game/spaceship-units/roles.md)
 * [Mission](game/mission/README.md)
   * [Discover](game/mission/discover.md)
   * [Invade](game/mission/invade.md)
   * [Explore](game/mission/explore.md)
+  * [Build](game/mission/build.md)
 * [Rewards](game/rewards.md)
 * [Leaderboard](game/leaderboard.md)
 * [Transparency](game/transparency.md)
