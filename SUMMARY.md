@@ -37,20 +37,20 @@
 
 ## Game
 
-* [Spaceship Units](game/spaceship-units/README.md)
-  * [Roles](game/spaceship-units/roles.md)
+* [Description](game/description.md)
+* [How to Play](game/how-to-play.md)
 * [Mission](game/mission/README.md)
   * [Discover](game/mission/discover.md)
   * [Invade](game/mission/invade.md)
   * [Explore](game/mission/explore.md)
   * [Build](game/mission/build.md)
 * [Rewards](game/rewards.md)
-* [Leaderboard](game/leaderboard.md)
+* [Boards](game/boards.md)
 * [Transparency](game/transparency.md)
-* [UI](game/ui/README.md)
-  * [Wallet](game/ui/wallet.md)
-  * [Discord](game/ui/discord.md)
-  * [Web](game/ui/web.md)
+* [Integrations](game/integrations/README.md)
+  * [Wallet](game/integrations/wallet.md)
+  * [Discord](game/integrations/discord.md)
+  * [Web](game/integrations/web.md)
 
 ## DAO
 
