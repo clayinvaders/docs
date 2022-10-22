@@ -19,31 +19,25 @@ Engineer, Scientist
 *   Once per day
 
     * **Crew Engineers and Scientists** receive a notification **asking** for a new **coordinate** to explore, and type of exploration (Elements or Knowledge)
-    * **Crew Explores** set the **coordinates** for the mission
-    * At least **1 Engineer & 1 Doctor** start the mission
+    * **Crew Engineers and Scientists**  set the **elements and knowledge to use** for the mission
+    * At least **1 Engineer & 1 Scientist** start the mission
 
-    `/ci-game start-exploration`
+    `/ci-game start-build`
 
     * **Space Unit** **Members** **vote** the action to choose (DISCORD pool)
     * The mission **start**
-      *   Element founds
+      *   Element created
 
           * **All Space Unit Members** set the contribute for the mission
 
-          `/ci-game set collect-element`
-      *   Knowledge found
-
-          * **All Space Unit Members** set the contribute for the mission
-
-          `/ci-game set collect-knowledge`
+          `/ci-game set save-element`
       * Randomness (coordinates deviation)
         * Blockchain Random seed
         * Fulfilled Crew vs. Available Roles
         * Number of Passengers
         * NFT Traits
-        * **Number of** Space Units **members** that set the proper collect&#x20;
+        * **Number of** Space Units **members** that set the proper save-element&#x20;
 * When epoch ends
   * Result of mission is **published**
   * Rewards
     * New Elements
-    * New Knowledge
