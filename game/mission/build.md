@@ -39,5 +39,6 @@ Engineer, Scientist
         * **Number of** Space Units **members** that set the proper save-element&#x20;
 * When epoch ends
   * Result of mission is **published**
+    * **Points** added to the Leaderboard
   * Rewards
     * New Elements

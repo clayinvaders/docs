@@ -30,6 +30,7 @@ Commander, Navigator
       * NFT Traits
 * When epoch ends
   * Result of mission is **published**
+    * **Points** added to the Leaderboard
   * Rewards
     * Galaxy Coordinates Key
     * Planet Coordinates Key

@@ -44,6 +44,7 @@ Explorer, Engineer & Doctor
         * **Number of** Space Units **members** that set the proper collect&#x20;
 * When epoch ends
   * Result of mission is **published**
+    * **Points** added to the Leaderboard
   * Rewards
     * New Elements
     * New Knowledge

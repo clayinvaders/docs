@@ -50,5 +50,6 @@ Commander, Pilot & Doctor
         * Number of **Doctors** in Crew reduce injures
 * When epoch ends
   * Result of mission is **published**
+    * **Points** added to the Leaderboard
   * Rewards
     * Planet Portal Key
