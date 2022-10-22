@@ -27,7 +27,8 @@ Commander, Pilot & Doctor
   * **Crew Pilots** set the **coordinates** for the mission
   * **Crew Commander** start the mission
   * **Space Unit** **Members** **vote** the coordinate to choose (DISCORD pool)
-  * The mission is **performed**
+  * The mission **starts**
+    * **All Space Unit Members** need to react before the day end
     *   Forced Invasion: planet is close enough of the settled coordinates, but not 100% precise
 
         * **All Space Unit Members** set the **forced invasion mode** for the mission

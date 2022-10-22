@@ -11,7 +11,7 @@
 
 ## Tokenomics
 
-* [CINV Token](tokenomics/cinv-token.md)
+* [CINV Token](tokenomics/distribution.md)
 * [Claim CINV](tokenomics/claim-cinv.md)
 * [Claim ADA](tokenomics/claim-ada.md)
 
@@ -29,7 +29,7 @@
 * [Transparency](game/transparency.md)
 * [Integrations](game/ui/README.md)
   * [Wallet](game/ui/wallet.md)
-  * [Discord](game/ui/discord.md)
+  * [DISCORD](game/ui/discord.md)
   * [Web](game/ui/web.md)
 
 ## Technology
