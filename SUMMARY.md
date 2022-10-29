@@ -35,7 +35,7 @@
 ## Technology
 
 * [Art Generation](technology/art-generation.md)
-* [Storage](technology/storage.md)
+* [NFT Storage](technology/nft-storage.md)
 * [Metadata](technology/metadata.md)
 * [UTxOs](technology/utxos.md)
 * [Epoch](technology/epoch.md)
