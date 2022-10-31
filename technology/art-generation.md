@@ -11,4 +11,16 @@ We adapted it to:
 
 [https://github.com/clayinvaders/cardano-hashlips\_art\_engine](https://t.co/JiVX9Vuala)
 
-So if you have the traits but don't know how to assemble them, take a look and feel free ping us!&#x20;
+So if you have the traits but don't know how to assemble them, take a look and feel free ping us!
+
+### Thumbs
+
+Part of the Standard for NFTs in Cardano ask you to have a thumb image of your NFT in the metadata. (400x400 or 500x500) could be a good size for them.
+
+We strongly suggest you to use [**ImageMagick**](https://github.com/ImageMagick/ImageMagick)**,** with a simple script as follow you could convert them in minutes. :fire:
+
+{% embed url="https://gist.github.com/clayinvaders/a9332ace06eef7f2207f79d58320419b" %}
+convert\_images.sh
+{% endembed %}
+
+So if you have the images but don't know how to generate the thumbs, take a look and feel free ping us!
