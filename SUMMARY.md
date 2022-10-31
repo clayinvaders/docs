@@ -35,11 +35,15 @@
 ## Technology
 
 * [Art Generation](technology/art-generation.md)
-* [NFT Storage](technology/nft-storage.md)
+* [NFT Storage](technology/storage.md)
 * [Metadata](technology/metadata.md)
 * [UTxOs](technology/utxos.md)
 * [Epoch](technology/epoch.md)
 * [Transaction](technology/transaction.md)
+* [dApps](technology/dapps.md)
+* [Wallets](technology/wallets.md)
+* [Keys](technology/keys.md)
+* [Address](technology/address.md)
 * [Signatures](technology/signatures.md)
 * [Multisig](technology/multisig.md)
 * [NFT vs FT](technology/nft-vs-ft.md)
