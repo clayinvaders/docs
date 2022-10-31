@@ -52,5 +52,13 @@ When you have a 10K collection, probably you are talking about 10\~20 Gigas of d
 In Clay Invaders we use a lib to upload them that works like a charm (we are using Pinata)\
 [https://github.com/clayinvaders/pinata-ipfs-scripts-for-nft-projects](https://github.com/clayinvaders/pinata-ipfs-scripts-for-nft-projects)
 
+Once you upload all your files, you need to replace all the metadata files with the new ipfs hashes (Thumb and full size).\
+\
+This is the code we use for it:
+
+{% embed url="https://gist.github.com/clayinvaders/b8640b6426d78ca9f3a62e6c1fb5e187" %}
+replace\_ipfs\_hashes.js
+{% endembed %}
+
 So if you have the art generated but don't know how to upload them to IPFS, take a look and feel free ping us!&#x20;
 
