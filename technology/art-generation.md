@@ -19,14 +19,8 @@ Part of the Standard for NFTs in Cardano ask you to have a thumb image of your N
 
 We strongly suggest you to use [**ImageMagick**](https://github.com/ImageMagick/ImageMagick)**,** with a simple script as follow you could convert them in minutes. :fire:
 
-```bash
-#!/bin/bash
-for filename in ~/clay-invaders-images/images/ClayInvaders*.png; do
-  name=${filename##*/}
-  echo $name
-  convert "$filename" -resize 500x500 "~/clay-invaders-images/thumbs/Thumb_$name"
-done
-
-```
+{% embed url="https://gist.github.com/clayinvaders/a9332ace06eef7f2207f79d58320419b" %}
+convert\_images.sh
+{% endembed %}
 
 So if you have the images but don't know how to generate the thumbs, take a look and feel free ping us!
