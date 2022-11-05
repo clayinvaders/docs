@@ -24,4 +24,32 @@ As another famous alien said, "With great power comes great responsibility"&#x20
 
 **Are you ready to be a Crew Member?**
 
-![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865932607008789/SpaceSuits-Commander.png?width=600\&height=600)![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865932967719023/SpaceSuits-Pilot.png?width=600\&height=600)![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865933303271434/SpaceSuits-Navigator.png?width=600\&height=600)![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865933668167700/SpaceSuits-Engineer.png?width=600\&height=600)![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865934007914547/SpaceSuits-Scientist.png?width=600\&height=600)![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865934389596221/SpaceSuits-Explorer.png?width=600\&height=600)![Image](https://media.discordapp.net/attachments/1027675794186711040/1027865934985179206/SpaceSuits-Doctor.png?width=600\&height=600)
+<div>
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Doctor.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Explorer.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Navigator.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Scientist.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Engineer.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Pilot.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/SpaceSuits-Commander.png" alt=""><figcaption></figcaption></figure>
+
+</div>
