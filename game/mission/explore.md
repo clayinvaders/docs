@@ -15,25 +15,25 @@ Explorer, Engineer & Doctor
 ### Gameplay
 
 * When epoch start
-  * **Crew Explorers** receive a notification to inform they are **in charge** of the **Explore Mission**
+  * **Crew Explorers** receive a notification to inform them they are **in charge** of the **Explore Mission**
 *   Once per day
 
-    * **Crew Explorers** receive a notification **asking** for a new **coordinate** to explore, and type of exploration (Elements or Knowledge)
+    * **Crew Explorers** receive a notification **asking** for a new **coordinate** to explore, and the type of exploration (Elements or Knowledge)
     * **Crew Explores** set the **coordinates** for the mission
     * At least **1 Engineer & 1 Doctor** start the mission
 
     `/ci-game start-exploration`
 
-    * **Space Unit** **Members** **vote** the action to choose (DISCORD pool)
+    * **Space Unit** **Members** **vote** on the action to choose (DISCORD pool)
     * The mission **start**
       *   Element founds
 
-          * **All Space Unit Members** set the contribute for the mission
+          * **All Space Unit Members** set the contribution for the mission
 
           `/ci-game set collect-element`
       *   Knowledge found
 
-          * **All Space Unit Members** set the contribute for the mission
+          * **All Space Unit Members** set the contribution for the mission
 
           `/ci-game set collect-knowledge`
       * Randomness (coordinates deviation)
@@ -43,7 +43,7 @@ Explorer, Engineer & Doctor
         * NFT Traits
         * **Number of** Space Units **members** that set the proper collect&#x20;
 * When epoch ends
-  * Result of mission is **published**
+  * The result of mission is **published**
     * **Points** added to the Leaderboard
   * Rewards
     * New Elements

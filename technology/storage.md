@@ -8,13 +8,13 @@ There is no limitation of types, but to follow the standard for NFTs (CIP-0025) 
 
 ### On-Chain vs Off-Chain
 
-In Cardano, the biggest size on 1 single transaction is 16KB, so that means that you need to keep some space for the rest of the information that transaction needs to be executed.
+In Cardano, the biggest size of 1 single transaction is 16KB, so that means that you need to keep some space for the rest of the information that the transaction needs to be executed.
 
-A rule could be, If the size in bytes of the pieces of art you generate is > 12K, you need to go storage off-chain. We will go deeper in the UTxOs explanation.
+A rule could be, If the size in bytes of the pieces of art you generate is > 12K, you need to go storage off-chain. We will go deeper into the UTxOs explanation.
 
 ### On-Chain
 
-All the metadata for the NFT is stored in the transaction the NFT is minted in.&#x20;
+All the metadata for the NFT is stored in the transaction in the NFT is minted in.&#x20;
 
 That means the NFT will always live as long as the blockchain is stored on lives!
 
@@ -42,14 +42,14 @@ Pros:&#x20;
 
 Cons:&#x20;
 
-* You need to pay to pin images (There is free services like NFT.Storage but with limitations)
-* Improvable, but IPFS could not be online or an standard in the future&#x20;
+* You need to pay to pin images (There are free services like NFT.Storage but with limitations)
+* Improvable, but IPFS could not be online or a standard in the future&#x20;
 
 ### Upload
 
-When you have a 10K collection, probably you are talking about 10\~20 Gigas of data, or more to upload.&#x20;
+When you have a 10K collection, probably you are talking about 10\~20 Gigas of data or more to upload.&#x20;
 
-In Clay Invaders we use a lib to upload them that works like a charm (we are using Pinata)\
+In Clay Invaders, we use a lib to upload them that works like a charm (we are using Pinata)\
 [https://github.com/clayinvaders/pinata-ipfs-scripts-for-nft-projects](https://github.com/clayinvaders/pinata-ipfs-scripts-for-nft-projects)
 
 Once you upload all your files, you need to replace all the metadata files with the new ipfs hashes (Thumb and full size).\
@@ -60,5 +60,5 @@ This is the code we use for it:
 replace\_ipfs\_hashes.js
 {% endembed %}
 
-So if you have the art generated but don't know how to upload them to IPFS, take a look and feel free ping us!&#x20;
+So if you have the art generated but don't know how to upload them to IPFS, take a look and feel free to ping us!&#x20;
 

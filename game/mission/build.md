@@ -15,7 +15,7 @@ Engineer, Scientist
 ### Gameplay
 
 * When epoch start
-  * **Crew Engineers and Scientists** receive a notification to inform they are **in charge** of the **Explore Mission**
+  * **Crew Engineers and Scientists** receive a notification to inform them they are **in charge** of the **Explore Mission**
 *   Once per day
 
     * **Crew Engineers and Scientists** receive a notification **asking** for a new **coordinate** to explore, and type of exploration (Elements or Knowledge)
@@ -24,11 +24,11 @@ Engineer, Scientist
 
     `/ci-game start-build`
 
-    * **Space Unit** **Members** **vote** the action to choose (DISCORD pool)
+    * **Space Unit** **Members** **vote** on the action to choose (DISCORD pool)
     * The mission **start**
       *   Element created
 
-          * **All Space Unit Members** set the contribute for the mission
+          * **All Space Unit Members** set the contribution for the mission
 
           `/ci-game set save-element`
       * Randomness (coordinates deviation)
@@ -38,7 +38,7 @@ Engineer, Scientist
         * NFT Traits
         * **Number of** Space Units **members** that set the proper save-element&#x20;
 * When epoch ends
-  * Result of mission is **published**
+  * The result of mission is **published**
     * **Points** added to the Leaderboard
   * Rewards
     * New Elements

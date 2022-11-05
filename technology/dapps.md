@@ -4,9 +4,9 @@
 
 dApps and Wallets are today the tip of the iceberg for the new WEB3.0.
 
-dApp is an app that connects some interfase (web/mobile/app) to a decentralized environment and are free from control and interference by any single authority.
+dApp is an app that connects some interface (web/mobile/app) to a decentralized environment and is free from control and interference by any single authority.
 
-The most common way to be connected to a dApp, is thought the use of a wallet.
+The most common way to be connected to a dApp, is through the use of a wallet.
 
 ### CIP-0030 Standard&#x20;
 
@@ -14,22 +14,22 @@ The standard describes a webpage-based communication bridge allowing webpages (i
 
 {% embed url="https://github.com/cardano-foundation/CIPs/blob/master/CIP-0025/README.md" %}
 
-### How it Works?
+### How does it work?
 
-A extension wallet injects the api in the browser page, this creates a bridge that connects the page to the wallet features & the blockchain.
+An extension wallet injects the API into the browser page, this creates a bridge that connects the page to the wallet features & the blockchain.
 
 ### Connect
 
 * Call cardano.{walletName}.isEnabled(): Promise \<bool>
   * Returns&#x20;
-  * If false, will ask the user to connect the dApp with the wallet
+  * If false will ask the user to connect the dApp with the wallet
 * Call cardano.{walletName}.enable(): Promise \<API>
   * This returns the **api 🛸**
 * Use the **api**
 
 ### Full Api
 
-Here a description of more used functions of the api.
+Here is a description of more used functions of the api.
 
 cardano.{walletName}
 
@@ -45,9 +45,9 @@ api
 * getCollateral(): returns list of Collateral UTxOs
 * getBalance(): returns the summing of getUtxos()
 * getUsedAddresses(): returns the list of all used addresses (included in some on-chain transaction)
-  * Some wallets (Nami) have Single Address Model (SAM) by default
+  * Some wallets (Nami) have a Single Address Model (SAM) by default
   * If wallet is working as SAM, it returns only 1 Address
-* getRewardAddresses(): returns the list reward (stake) address.
+* getRewardAddresses(): returns the list of reward (stake) addresses.
   * Is possible to have more than 1 (CIP-0018)
   * In practice 99%+ it returns only 1
 * signTx(): ask for a sign of the \`transaction\` in the extension, and returns the witness&#x20;

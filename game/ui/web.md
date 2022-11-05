@@ -1,6 +1,6 @@
 # Web
 
-The web include Leaderboards
+The web includes Leaderboards
 
 Transactions (Transparency)
 

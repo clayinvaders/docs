@@ -54,11 +54,11 @@ The required fields are:
 
 Where
 
-* 721: The tag "721"  indicate this is NFT
+* 721: The tag "721" indicates this is NFT
   * \<policy\_id>: The id of the policy generated based on expiration and the hash of the public keys.
-    * \<asset\_name>: The name you want to give the asset, no special characters nor spaces
+    * \<asset\_name>: The name you want to give the asset, with no special characters or spaces
 
-Note: 721, is inherit from [https://eips.ethereum.org/EIPS/eip-721](https://eips.ethereum.org/EIPS/eip-721)
+Note: 721, is inherited from [https://eips.ethereum.org/EIPS/eip-721](https://eips.ethereum.org/EIPS/eip-721)
 
 ### Clay Invaders Metadata
 
@@ -104,15 +104,15 @@ Note: 721, is inherit from [https://eips.ethereum.org/EIPS/eip-721](https://eips
 
 Notes:
 
-* Top level image is the image that is used as thumb in external sites like pool.pm or jpg.store
-* The Image inside files, is the full size (2000x2000)
-* Type: We define each NFT as Spaceship, Crew or Passenger
-* Describing all traits inside Attributes tag, it's not an standard, but a good practice
+* Top-level image is the image that is used as a thumb in external sites like pool.pm or jpg.store
+* The Image inside the files is the full size (2000x2000)
+* Type: We define each NFT as a Spaceship, Crew, or Passenger
+* Describing all traits inside the Attributes tag, it's not a standard, but a good practice
 
 ### New CIP
 
 (we suppose this section will be updated soon)
 
-There is a new standard in discussion (proposed by Alessandro/Berry, as usual 😂 ) but not so many projects using it yet.&#x20;
+There is a new standard in discussion (proposed by Alessandro/Berry, as usual, 😂 ) but not so many projects using it yet.&#x20;
 
 [https://github.com/cardano-foundation/CIPs/tree/master/CIP-0067](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0067)

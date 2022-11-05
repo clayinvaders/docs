@@ -1,6 +1,6 @@
 # Art
 
-Our collection consists of more than 350+ traits created and modeled by hand in clay, manually photographed and edited, algorithmically assembled.
+Our collection consists of more than 350+ traits created and modeled by hand in clay, manually photographed and edited, and algorithmically assembled.
 
 Each combination has been carefully considered to ensure that it builds regardless of rarity.
 

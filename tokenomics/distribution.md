@@ -5,13 +5,13 @@
 Every day of holding a ClayInvader NFT adds extra perks which will be rewarded over time!\
 
 
-### How it Works?
+### How does it work?
 
 There is a SPACE treasury.&#x20;
 
 We will take a snapshot of our policy ID holders every EPOCH.&#x20;
 
-For each NFT in wallet for the snapshot, you receive a token reward in our ClayInvaders token $CINV.&#x20;
+For each NFT in the wallet for the snapshot, you receive a token reward in our ClayInvaders token $CINV.&#x20;
 
 You can claim your % of ADA of the treasury in the same proportion of your $CINV/Total $CINV.&#x20;
 
@@ -19,7 +19,7 @@ The best part, CINV will be Claimable by ADA whenever you want and your $CINV wi
 
 ### How much $CINV?
 
-To benefit OG, we reward tokens in a halving style, dividing the number of tokens distributed each EPOCH by two.&#x20;
+To benefit OG, we reward tokens in a halving style, dividing the number of tokens distributed to each EPOCH by two.&#x20;
 
 Starting from 16 CINV until we achieve the value of 1.&#x20;
 
@@ -32,7 +32,7 @@ Starting from 16 CINV until we achieve the value of 1.&#x20;
 
 ### Supply
 
-Total supply of CINV will be 2MM
+The total supply of CINV will be 2MM
 
 * 5% Founders
 * 80% Holders
@@ -43,7 +43,7 @@ Total supply of CINV will be 2MM
 SPACE treasury will be composed:&#x20;
 
 * 6% of mint sales&#x20;
-* 6% of royalties (perpetual income for second market sales)&#x20;
+* 6% of royalties (perpetual income for secondary market sales)&#x20;
 * Claimed $CINV Tokens will be burned
 
 ### Transparency

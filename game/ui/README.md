@@ -1,6 +1,6 @@
 # Integrations
 
-There are 3 Type of Integrations on the GAME
+There are 3 Types of Integrations on the GAME
 
 * Wallet
 * DISCORD

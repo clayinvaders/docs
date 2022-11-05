@@ -1,10 +1,10 @@
 # Ships
 
-**To help protect, transport and discover new Clay Invaders, we have 9 spaceships**&#x20;
+**To help protect, transport, and discover new Clay Invaders, we have 9 spaceships**&#x20;
 
-Holders will have a chance to mint a spaceship. There are only 50 spaceship NFTs and each crew member duplicate your chances to mint one
+Holders will have a chance to mint a spaceship. There are only 50 spaceship NFTs and each crew member duplicates your chances to mint one
 
-Each Spaceships works as a Unit, and play are core role in [the GAME](broken-reference)&#x20;
+Each Spaceship works as a Unit, and plays are core role in [the GAME](broken-reference)&#x20;
 
 **There are 9 types of Spaceships: (50/10K)**&#x20;
 

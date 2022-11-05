@@ -4,11 +4,11 @@ description: Extended Unspent Transactions Outputs
 
 # EUTxOs
 
-Understanding of how the UTxOs works is mandatory to build an a scalable dApp in Cardano.
+Understanding of how the UTxOs work is mandatory to build a scalable dApp in Cardano.
 
-There is a lot of articles explaining how eUTxOs works, but there is no much content explaining what are the practices to use them for MINTING in a Mutisig, or how to deal with them for a CLAIMING system.
+There is a lot of articles explaining how eUTxOs work, but there is not much content explaining what are the practices to use for MINTING in a Mutisig, or how to deal with them for a CLAIMING system.
 
-Is a #CNFTCommunity creators to help everyone understand how to deal with it.
+Is a #CNFTCommunity creator to help everyone understand how to deal with it.
 
 ### **Balance**
 
@@ -49,15 +49,15 @@ There are three types of operations for tokens:&#x20;
 
 ### UTxO Selection
 
-There are many strategies to select UTxOs, most of them are focused on selecting the best UTxOs that fit the amount of ADA + Tokens required, but none of them resolves the Parallelization, Tx Size Limits and the min ADA required for each output.
+There are many strategies to select UTxOs, most of them are focused on selecting the best UTxOs that fit the amount of ADA + Tokens required, but none of them resolves the Parallelization, Tx Size Limits, and the min ADA required for each output.
 
 ### Parallelization
 
-The biggest complexity in a CNFT project is to manage the EUTxOs in a proper to allow more than 1 person play with it at a time, if it's not well managed, you could see the well known UTXOS\_EXHAUSTED 😂
+The biggest complexity in a CNFT project is to manage the EUTxOs in a proper to allow more than 1 person to play with it at a time, if it's not well managed, you could see the well-known UTXOS\_EXHAUSTED 😂
 
 ### Tx Size Limit
 
-The limit is 16KB for a tx, that means if you have to send 100+ tokens, you will have an important reduction of the size you could use for the minting metadata.
+The limit is 16KB for a tx, which means if you have to send 100+ tokens, you will have an important reduction of the size you could use for the minting metadata.
 
 ### Min ADA & Fee
 
@@ -87,29 +87,29 @@ If you want to go deeper, check this [https://github.com/input-output-hk/cardano
 
 It's not rare to see 1 UTxO with many tokens (+100) inside a wallet of a CNFT collector, and that makes it harder to process.
 
-There many decisions to take in the selection of UTxOs, but usually the most simple and effective way to do it is filtering UTxOs with many tokens and inform properly if you don't find enough ADA to cover the cost of the NFT + fees + minADA.
+There are many decisions to take in the selection of UTxOs, but usually, the most simple and effective way to do it is filtering UTxOs with many tokens and informing properly if you don't find enough ADA to cover the cost of the NFT + fees + minADA.
 
-Remember that selecting many UTxOs could carry with a big count of tokens.
+Remember that selecting many UTxOs could carry a big count of tokens.
 
 ### Claimer Machine (Use Case)
 
 One common case for a Claiming Machines is that you have a wallet where the token you want to distribute resides.&#x20;
 
-To allow more than 1 person claim at the same time, you need to make an advance management of the UTxOs. If not, you need to wait until 1 tx is finished to start the following or be ready to receive a bunch of UTXOS\_EXHAUSTED
+To allow more than 1 person to claim at the same time, you need to make advance management of the UTxOs. If not, you need to wait until 1 tx is finished to start the following or be ready to receive a bunch of UTXOS\_EXHAUSTED
 
-We divide this in 3 stages:
+We divide this into 3 stages:
 
 * Split:&#x20;
-  * You need at least 1 UTxOs to covers the amount needed, for each claimer in parallel.
+  * You need at least 1 UTxOs to cover the amount needed, for each claimer in parallel.
   * You can trigger the split based on the amount of unused UTxOs
 * Use:
-  * You need to track each used UTxO, to not reuse the same more than once
+  * You need to track each used UTxO, do not reuse the same more than once
 * Refresh:
   * You need to refresh the list of unused UTxOs periodically to ensure the sync with the blockchain
 
 ### More
 
-If you want to see a advance article about eUTxOs and the differences between them and the Accounting model [https://medium.com/coinmonks/understanding-cardano-extended-utxo-950ae19829cf](https://medium.com/coinmonks/understanding-cardano-extended-utxo-950ae19829cf)
+If you want to see a advanced article about eUTxOs and the differences between them and the Accounting model [https://medium.com/coinmonks/understanding-cardano-extended-utxo-950ae19829cf](https://medium.com/coinmonks/understanding-cardano-extended-utxo-950ae19829cf)
 
 
 
