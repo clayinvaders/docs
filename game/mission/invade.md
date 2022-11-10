@@ -12,7 +12,7 @@ Conditions to start the mission:
 
 ### Objective
 
-Discover new Galaxies & Planets
+Invade a Planet
 
 ### Main Actors
 
@@ -31,7 +31,7 @@ Commander, Pilot & Doctor
     * **All Space Unit Members** need to react before the day's end
     *   Forced Invasion: the planet is close enough to the settled coordinates, but not 100% precise
 
-        * **All Space Unit Members** set the **forced invasion mode** for the mission
+        * **All Space Unit Members** set the **pacific invasion mode** for the mission
 
         `/ci-game set forced-invasion`
     *   Pacific Invasion: 100% precise coordinates
@@ -49,7 +49,7 @@ Commander, Pilot & Doctor
         * A random number of **members** injured
         * The number of **Doctors** in the Crew reduce injures
 * When epoch ends
-  * The result of mission is **published**
+  * The result of the mission is **published**
     * **Points** added to the Leaderboard
   * Rewards
     * Planet Portal Key

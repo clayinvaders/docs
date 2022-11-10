@@ -6,7 +6,7 @@ There are 5 discover missions per epoch, 1 per day
 
 ### Objective
 
-Discover new Galaxies & Planets
+Build new elements or upgrade existing ones
 
 ### Main Actors
 
@@ -38,7 +38,7 @@ Engineer, Scientist
         * NFT Traits
         * **Number of** Space Units **members** that set the proper save-element&#x20;
 * When epoch ends
-  * The result of mission is **published**
+  * The result of the mission is **published**
     * **Points** added to the Leaderboard
   * Rewards
     * New Elements

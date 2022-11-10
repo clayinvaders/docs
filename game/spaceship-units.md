@@ -2,15 +2,19 @@
 
 ## **Intro**
 
-There are only 9 types of Spaceships and 50 Units in total for the Clay Invaders NFT Collection
+There are 9 types of Spaceships and 50 Units in total for the Clay Invaders NFT Collection
 
 This is a collaborative game, every NFT owner could choose what SpaceShip unit to join and work together to achieve the goal.
 
 Each SpaceShip is a **unit**, where all participants should help to play and complete the missions of the game
 
+### Infographic
+
+<figure><img src="../.gitbook/assets/GameInfographic.v1.0.png" alt=""><figcaption></figcaption></figure>
+
 ### Roles
 
-Each NFT has an associated role (described in metadata), the possible roles are:
+Each NFT has an associated role (described in metadata), the possibles are:
 
 * **Spaceship**
 * **Crew**
