@@ -39,12 +39,17 @@ Commander, Pilot & Doctor
         * **All Space Unit Members** set the **forced invasion mode** for the mission
 
         `/ci-game set pacific-invasion`
+    * The mission **starts**
+      * Randomly, the users in the SpaceUnit receive small missions to complete:&#x20;
+        * (v1) DISCORD bot messages with puzzles
+        * (v2) Web Minigame link to play
     * Randomness (coordinates deviation)
       * Blockchain Random seed
       * Fulfilled Crew vs. Available Roles
       * Number of Passengers
       * NFT Traits
       * **Number of** Space Units **members** that set the proper invasion type (forced or pacific)
+      * Small Missions Results
       * Forced Invasion
         * A random number of **members** injured
         * The number of **Doctors** in the Crew reduce injures
