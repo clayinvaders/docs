@@ -29,12 +29,12 @@ Commander, Pilot & Doctor
   * **Space Unit** **Members** **vote** the coordinate to choose (DISCORD pool)
   * The mission **starts**
     * **All Space Unit Members** need to react before the day's end
-    *   Forced Invasion: the planet is close enough to the settled coordinates, but not 100% precise
+    *   **Forced** Invasion: the planet is close enough to the settled coordinates, but not 100% precise
 
         * **All Space Unit Members** set the **forced invasion mode** for the mission
 
         `/ci-game set forced-invasion`
-    *   Pacific Invasion: 100% precise coordinates
+    *   **Pacific** Invasion: 100% precise coordinates
 
         * **All Space Unit Members** set the **pacific invasion mode** for the mission
 
