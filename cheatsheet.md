@@ -97,10 +97,19 @@
       * It depends on the mint epoch
       * Starting from 16 $CINV x epoch (368)
       * Now 1 $CINV x epoch
+  *
 * TECH ARTICLES
   * Art Generation / NFT Storage / Metadata / Tokens / dApps / eUTxOs / Signatures / NFTs vs. FT / etc ...
   * GitHub code
   * English / Spanish&#x20;
+* LONG TERM
+  * Clay Invasion just started, we think we can integrate the game into any discord server and play with any NFT project in the future.
+  * Tokenomics (if royalties => 0%)
+    * Gamers
+      * 50% claiming fees
+    * NoGamers
+      * Leasing / Renting
+      * 50% claiming fees
 * Links
   * **Web -** [**https://www.clayinvaders.art/**](https://www.clayinvaders.art/)****
   * **Twitter -** [**https://twitter.com/ClayInvaders**](https://twitter.com/ClayInvaders)****
