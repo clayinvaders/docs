@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Cheatsheet](cheatsheet.md)
 
 ## Collection
 
