@@ -88,7 +88,7 @@
     * 80% for Holders
     * 15% for Game Rewards
     * 5% for Founders
-  * Space Treasury (Backed by in $ADA)
+  * Space Treasury (Backed in $ADA)
     * 6% of the Sales
     * 6% of the Secondary Sales (Royalties)
       * Will be reduced to 3% after the game launch
