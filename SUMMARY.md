@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [Cheatsheet](cheatsheet.md)
 
 ## Collection
 
@@ -57,3 +56,7 @@
 * [On Chain Vote](dao/on-chain-vote.md)
 * [Proposal's Workflow](dao/proposals-workflow.md)
 * [Quadratic Vote](dao/quadratic-vote.md)
+
+***
+
+* [Cheatsheet](cheatsheet.md)
