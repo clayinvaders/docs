@@ -43,7 +43,8 @@ The total supply of CINV will be 2MM
 SPACE treasury will be composed:&#x20;
 
 * 6% of mint sales&#x20;
-* 6% of royalties (perpetual income for secondary market sales)&#x20;
+* 6% of royalties (perpetual income for secondary market sales)
+  * 3% after the game launch
 * Claimed $CINV Tokens will be burned
 
 ### Transparency
