@@ -67,7 +67,7 @@
     * BUILD
       * Create new elements or Upgrade existing
   * Transparency
-    * **Verifiable**
+    * **Deterministic / Verifiable**
     * **Randomness** is seeded from the **blockchain**
   * Rewards
     * Leaderboards ($ADA / $CINV prices)
