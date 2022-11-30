@@ -12,7 +12,7 @@
 
 * [x] NFT Drop
 * [x] Community Focus
-* [x] Community Treasury (6% Sales + 6% Royalties (perpetual))
+* [x] Community Treasury (3% Sales + 3% Royalties (perpetual))
 * [x] Tech Articles & Open source code
 * [x] $CINV Token Distribution (Multisig Claiming System)
 * [ ] Game (P2E) - Beta

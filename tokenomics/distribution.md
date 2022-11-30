@@ -43,16 +43,14 @@ The total supply of CINV will be 2MM
 SPACE treasury will be composed:&#x20;
 
 * 6% of mint sales&#x20;
-* 6% of royalties (perpetual income for secondary market sales)
-  * 3% after the game launch
-* Claimed $CINV Tokens will be burned
+* 3% of royalties (perpetual income for secondary market sales)
+  * 1,5% after the game launch
 
 ### Transparency
 
-The Treasury and the Royalties are Cardano addresses that you can check whenever you want.\
-You will see in our first token minted (777 means royalties) the % of royalties is 12%.\
-This was made intentionally:
+The Treasury and the Royalties are Cardano addresses that you can check whenever you want.
 
-* 6% for ClayInvaders Founders
-* 6% for SPACE Treasury
+* 3% for ClayInvaders Founders
+* 3% for SPACE Treasury
 
+Note: The project started with 12% of royalties, and decreased to 6% incentive sales.&#x20;
