@@ -13,9 +13,9 @@ We will take a snapshot of our policy ID holders every EPOCH.&#x20;
 
 For each NFT in the wallet for the snapshot, you receive a token reward in our ClayInvaders token $CINV.&#x20;
 
-You can claim your % of ADA of the treasury in the same proportion of your $CINV/Total $CINV.&#x20;
+You will be able to claim your % of ADA of the treasury in the same proportion of your $CINV/Total $CINV.&#x20;
 
-The best part, CINV will be Claimable by ADA whenever you want and your $CINV will be burned.
+
 
 ### How much $CINV?
 
@@ -30,11 +30,22 @@ Starting from 16 CINV until we achieve the value of 1.&#x20;
 * EPOCH 372 - 1 CINV x NFT&#x20;
 * FOLLOWING - 1 CINV x NFT (Until Game Launch & 2MM Supply not reached)
 
+The CINV is attached to the NFT and will be there until it's claimed.
+
+**Important:**\
+\- You **only receive CINV** token if the NFT is **not listed** on secondary markets (jpg.store, epoch.art,  etc.)\
+\- Tokens listed will **lose the accumulated $CINV** attached to the token if they are **listed** on secondary markets.
+
 ### Supply
 
 The total supply of CINV will be 2MM
 
 * 5% Founders
+  * 1% at the end of 2022Q4
+  * 1% at the end of 2023Q1
+  * 1% at the end of 2023Q2
+  * 1% at the end of 2023Q3
+  * 1% at the end of 2023Q4
 * 80% Holders
 * 15% Game Rewards
 
@@ -53,4 +64,4 @@ The Treasury and the Royalties are Cardano addresses that you can check whenever
 * 3% for ClayInvaders Founders
 * 3% for SPACE Treasury
 
-Note: The project started with 12% of royalties, and decreased to 6% incentive sales.&#x20;
+Note: The project started with 12% of royalties, and decreased to 6% incentive sales. Items listed with 12% need to be relisted to update the royalties %.
