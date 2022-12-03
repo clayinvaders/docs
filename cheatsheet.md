@@ -1,6 +1,8 @@
 # Cheatsheet
 
 * ABOUT
+  * Community Focused
+  * Utility First
   * More than 1 year&#x20;
     * Creating the ART
       * Clay / Pics / Edit / Assemble
