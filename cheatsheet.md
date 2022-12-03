@@ -90,7 +90,7 @@
     * 5% for Founders
   * Space Treasury (Backed in $ADA)
     * 6% of the Sales
-    * 6% of the Secondary Sales (Royalties)
+    * 3% of the Secondary Sales (Royalties)
       * Will be reduced to 3% after the game launch
   * Claims
     * OGs will get more $CINV
@@ -105,9 +105,10 @@
 * LONG TERM
   * Clay Invasion just started, we think we can integrate the game into any discord server and play with any NFT project in the future.
   * Tokenomics (if royalties => 0%)
-    * Gamers
+    * Prizes
       * 50% claiming fees
-    * NoGamers
+      * 50% minting fees
+    * Treasury
       * Leasing / Renting
       * 50% claiming fees
 * Links
