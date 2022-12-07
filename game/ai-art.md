@@ -16,7 +16,7 @@ This is a wip showcase of what we have been working on for the ART generation us
 
 ![](<../.gitbook/assets/image (1).png>)
 
-**Cinematic Style**
+**Anime Humanoid Style**
 
 ![](<../.gitbook/assets/image (4).png>)
 
