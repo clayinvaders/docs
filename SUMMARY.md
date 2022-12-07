@@ -19,6 +19,7 @@
 ## Game
 
 * [Description](game/spaceship-units.md)
+* [AI Art](game/ai-art.md)
 * [How to Play](game/roles.md)
 * [Mission](game/mission/README.md)
   * [Discover](game/mission/discover.md)
