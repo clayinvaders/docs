@@ -46,7 +46,9 @@ The total supply of CINV will be 2MM
   * 1% at the end of 2023Q2
   * 1% at the end of 2023Q3
   * 1% at the end of 2023Q4
-* 80% Holders
+* 77% Holders
+* 3% Marketing
+  * 0.25% per Quarter / 3 years
 * 15% Game Rewards
 
 ### Sources
